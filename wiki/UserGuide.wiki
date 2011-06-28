@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary GTalk plugin for eclipse User Guide
 
 = Introduction =
 
