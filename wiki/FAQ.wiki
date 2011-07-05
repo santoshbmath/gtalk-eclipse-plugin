@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Frequently Asked Questions
 
 = FAQ =
 
@@ -7,3 +7,5 @@ It supports four status's "Available", "Away", "Busy", "Invisible"
 
 *Does it support proxy*<br>
 No. Current release does not support for proxy. Their is plan to support proxy in future.
+
+*How do i report a new bug*<br>
