@@ -3,7 +3,7 @@
 = FAQ =
 
 *What are all status's supported by this plugin*<br>
-It supports four status's "Available", "Away", "Busy", "Invisible"
+It supports four status's "Available", "Away", "Busy", "Invisible". Yes you can login with any of these status.
 
 *Does it support proxy*<br>
 No. Current release does not support for proxy. Their is plan to support proxy in future.
