@@ -28,3 +28,6 @@ No. This release does not support this feature. Already a "Enhancement" request 
 
 *Is it possible to block a friend*<br>
 No. This release does not support this feature. Already a "Enhancement" request has been raised to track this.
+
+*What is the port number to which this plugin connects*<br>
+It connects to port number 5222
