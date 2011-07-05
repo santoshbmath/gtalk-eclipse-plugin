@@ -9,3 +9,13 @@ It supports four status's "Available", "Away", "Busy", "Invisible"
 No. Current release does not support for proxy. Their is plan to support proxy in future.
 
 *How do i report a new bug*<br>
+From the project's home page, click "Issues" tab and select "New Defect".
+
+*How do i ask for enhancement*<br>
+Same as above. 
+
+*How my password is stored*<br>
+This plugin does not store passwords. It only stores the user id in eclipse preferences.
+
+*Is there any delay in sending/receiving the messages*
+Yes, sometimes there is a little bit delay(5-10 secs) in receiving messages.
