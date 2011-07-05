@@ -31,3 +31,6 @@ No. This release does not support this feature. Already a "Enhancement" request 
 
 *What is the port number to which this plugin connects*<br>
 It connects to port number 5222
+
+*How can i recognize incoming message from my friend*<br>
+If you are receiving message first time then it will open a new tab with your friends id as title. If you have already opened the tab then it will become *bold*
