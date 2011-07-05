@@ -6,7 +6,7 @@
 It supports four status's "Available", "Away", "Busy", "Invisible". Yes you can login with any of these status.
 
 *Does it support proxy*<br>
-No. Current release does not support for proxy. Their is plan to support proxy in future.
+No. Current release does not support for proxy. Their is plan to support proxy in future. Already a "Enhancement" request has been raised to track this.
 
 *How do i report a new bug*<br>
 From the project's home page, click "Issues" tab and select "New Defect".
@@ -24,4 +24,7 @@ Yes, sometimes there is a little bit delay(5-10 secs) in receiving messages.
 If you are busy and want to reply to the message you got then enable "Auto Reply" with your message. Whenever you receive a message then automatically your message will be sent to user.
 
 *Is it possible to add/remove a friend from the friends list*<br>
-No. This release does not support this feature. 
+No. This release does not support this feature. Already a "Enhancement" request has been raised to track this.
+
+*Is it possible to block a friend*<br>
+No. This release does not support this feature. Already a "Enhancement" request has been raised to track this.
