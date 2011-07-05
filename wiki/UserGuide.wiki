@@ -1,0 +1,4 @@
+#summary User Guide
+
+*GTalk View*
+Go to *"Window > Show View > Other..."*, then select *GTalk* view from *GTalk* category. 
