@@ -1,0 +1,9 @@
+#summary One-sentence summary of this page.
+
+= FAQ =
+
+*What are all status's supported by this plugin*
+It supports "Available", "Away", "Busy", "Invisible"
+
+*Does it support proxy*
+No. Current release does not support for proxy. Their is plan to support proxy in future.
