@@ -20,5 +20,5 @@ This plugin does not store passwords. It only stores the user id in eclipse pref
 *Is there any delay in sending/receiving the messages*
 Yes, sometimes there is a little bit delay(5-10 secs) in receiving messages.
 
-*How "Auto reply" works*
+*How "Auto reply" works*<br>
 If you are busy and want to reply to the message you got then enable "Auto Reply" with your message. Whenever you receive a message then automatically your message will be sent to user.
