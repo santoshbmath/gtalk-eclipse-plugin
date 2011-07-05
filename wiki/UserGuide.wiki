@@ -1,4 +1,7 @@
 #summary User Guide
 
-*GTalk View*
+=== Installation ===
+Download the [http://code.google.com/p/gtalk-eclipse-plugin/downloads/list com.gtalk_1.0.0.jar] file and place the downloaded jar file in *plugins* directory of your eclipse installation. Then restart your eclipse. 
+
+=== GTalk View ===
 Go to *"Window > Show View > Other..."*, then select *GTalk* view from *GTalk* category. 
