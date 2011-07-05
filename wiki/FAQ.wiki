@@ -17,7 +17,7 @@ Same as above.
 *How my password is stored*<br>
 This plugin does not store passwords. It only stores the user id in eclipse preferences.
 
-*Is there any delay in sending/receiving the messages*
+*Is there any delay in sending/receiving the messages*<br>
 Yes, sometimes there is a little bit delay(5-10 secs) in receiving messages.
 
 *How "Auto reply" works*<br>
