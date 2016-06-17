@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            name="Gtalk"
+            id="com.gtalk.category">
+      </category>
+      <view
+            name="Gtalk"
+            icon="icons/chat.png"
+            category="com.gtalk.category"
+            class="com.gtalk.views.GTalkChatView"
+            id="com.gtalk.views.mainView">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.ui.preferencePages">
+      <page
+            class="com.gtalk.ui.GTalkPreferencePage"
+            id="com.gtalk.ui.preferencePage"
+            name="GTalk">
+      </page>
+   </extension>
+</plugin>

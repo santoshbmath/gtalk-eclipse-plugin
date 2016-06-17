@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GTalk plugin for eclipse
+Bundle-SymbolicName: com.gtalk;singleton:=true
+Bundle-Version: 2.0.0
+Bundle-Activator: com.gtalk.GTalkPlugin
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ClassPath: lib/smack.jar,
+ lib/smackx.jar,
+ .
+Bundle-Vendor: Santosh Math
